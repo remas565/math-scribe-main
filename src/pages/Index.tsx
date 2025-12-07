@@ -26,7 +26,7 @@ interface LatencyInfo {
   totalTime: number;
 }
 
-const API_URL = 'https://web-production-8f04.up.railway.app';
+const API_URL = "https://web-production-8f04.up.railway.app";
 
 
 const Index = () => {
